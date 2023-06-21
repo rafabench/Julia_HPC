@@ -1,3 +1,4 @@
+# Based on https://github.com/schiegl/AntColony.jl
 using Distributed
 
 macro my_time(ex)

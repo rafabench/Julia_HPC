@@ -1,4 +1,4 @@
-# Julia_HPC
+# High Performance Computing in Julia
 
 Repository of the course [High Performance Computing in Julia](https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/83/362/626-1?inline=1).
 
